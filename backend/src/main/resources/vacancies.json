@@ -1,0 +1,964 @@
+{
+  "frontend": [
+    {
+      "company": "Flipkart",
+      "title": "Frontend Engineer (React)",
+      "location": "Bengaluru",
+      "experience": "1-3 yrs",
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "careersUrl": "https://www.flipkartcareers.com"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Engineer - Frontend",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Accessibility"
+      ],
+      "careersUrl": "https://careers.microsoft.com"
+    },
+    {
+      "company": "Zoho",
+      "title": "UI Developer / Member Technical Staff",
+      "location": "Chennai",
+      "experience": "0-2 yrs",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "careersUrl": "https://www.zoho.com/careers/"
+    },
+    {
+      "company": "Swiggy",
+      "title": "SDE - Web Frontend",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "React",
+        "Redux",
+        "Performance"
+      ],
+      "careersUrl": "https://careers.swiggy.com"
+    },
+    {
+      "company": "Accenture",
+      "title": "Web / Frontend Developer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Angular",
+        "React",
+        "REST APIs"
+      ],
+      "careersUrl": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Adobe",
+      "title": "Computer Scientist - Frontend",
+      "location": "Bengaluru",
+      "experience": "2-5 yrs",
+      "skills": [
+        "TypeScript",
+        "React",
+        "Testing"
+      ],
+      "careersUrl": "https://careers.adobe.com"
+    }
+  ],
+  "backend": [
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Java",
+        "System Design",
+        "AWS"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Razorpay",
+      "title": "Backend Engineer",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Java",
+        "Microservices",
+        "SQL"
+      ],
+      "careersUrl": "https://razorpay.com/jobs/"
+    },
+    {
+      "company": "Oracle",
+      "title": "Java Backend Developer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "careersUrl": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "Infosys",
+      "title": "Systems Engineer - Java / Python",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Java",
+        "Spring",
+        "SQL"
+      ],
+      "careersUrl": "https://www.infosys.com/careers/"
+    },
+    {
+      "company": "PhonePe",
+      "title": "Software Engineer - Backend",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Java",
+        "Kafka",
+        "Redis"
+      ],
+      "careersUrl": "https://www.phonepe.com/careers/"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Programmer Analyst - Backend",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Java",
+        "REST APIs",
+        "SQL"
+      ],
+      "careersUrl": "https://careers.cognizant.com"
+    }
+  ],
+  "fullstack": [
+    {
+      "company": "Google",
+      "title": "Software Engineer (Full Stack)",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "JavaScript",
+        "Backend",
+        "Cloud"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Full Stack Developer",
+      "location": "Chennai",
+      "experience": "1-4 yrs",
+      "skills": [
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Full Stack Java Developer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "React"
+      ],
+      "careersUrl": "https://www.capgemini.com/in-en/careers/"
+    },
+    {
+      "company": "Meesho",
+      "title": "SDE - Full Stack",
+      "location": "Bengaluru",
+      "experience": "1-3 yrs",
+      "skills": [
+        "React",
+        "Node.js",
+        "Databases"
+      ],
+      "careersUrl": "https://www.meesho.io/jobs"
+    },
+    {
+      "company": "TCS",
+      "title": "Full Stack Developer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Java",
+        "Angular",
+        "SQL"
+      ],
+      "careersUrl": "https://www.tcs.com/careers"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Full Stack Engineer",
+      "location": "Hyderabad",
+      "experience": "1-3 yrs",
+      "skills": [
+        "React",
+        "Node.js",
+        "Cloud"
+      ],
+      "careersUrl": "https://www.deloitte.com/in/en/careers.html"
+    }
+  ],
+  "devops": [
+    {
+      "company": "Amazon",
+      "title": "Cloud Support / DevOps Engineer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "AWS",
+        "Linux",
+        "CI/CD"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Site Reliability Engineer",
+      "location": "Hyderabad",
+      "experience": "2-5 yrs",
+      "skills": [
+        "Azure",
+        "Kubernetes",
+        "Monitoring"
+      ],
+      "careersUrl": "https://careers.microsoft.com"
+    },
+    {
+      "company": "IBM",
+      "title": "DevOps Engineer",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Docker",
+        "Jenkins",
+        "Terraform"
+      ],
+      "careersUrl": "https://www.ibm.com/careers"
+    },
+    {
+      "company": "Cisco",
+      "title": "Cloud Infrastructure Engineer",
+      "location": "Bengaluru",
+      "experience": "2-5 yrs",
+      "skills": [
+        "Kubernetes",
+        "Linux",
+        "Automation"
+      ],
+      "careersUrl": "https://jobs.cisco.com"
+    },
+    {
+      "company": "HCLTech",
+      "title": "DevOps / Cloud Engineer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "AWS",
+        "CI/CD",
+        "Docker"
+      ],
+      "careersUrl": "https://www.hcltech.com/careers"
+    },
+    {
+      "company": "Atlassian",
+      "title": "Site Reliability Engineer",
+      "location": "Bengaluru",
+      "experience": "3-6 yrs",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "Observability"
+      ],
+      "careersUrl": "https://www.atlassian.com/company/careers"
+    }
+  ],
+  "data": [
+    {
+      "company": "Amazon",
+      "title": "Data Analyst / Business Intelligence Engineer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "SQL",
+        "Python",
+        "Dashboards"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Microsoft",
+      "title": "Data & Applied Scientist",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics"
+      ],
+      "careersUrl": "https://careers.microsoft.com"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Data Science Analyst",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Python",
+        "SQL",
+        "Power BI"
+      ],
+      "careersUrl": "https://www.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "Uber",
+      "title": "Data Scientist",
+      "location": "Bengaluru",
+      "experience": "2-5 yrs",
+      "skills": [
+        "Python",
+        "Experimentation",
+        "SQL"
+      ],
+      "careersUrl": "https://www.uber.com/us/en/careers/"
+    },
+    {
+      "company": "Oracle",
+      "title": "Machine Learning Engineer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Python",
+        "ML",
+        "Cloud"
+      ],
+      "careersUrl": "https://www.oracle.com/careers/"
+    },
+    {
+      "company": "Tech Mahindra",
+      "title": "Data Engineer",
+      "location": "Hyderabad",
+      "experience": "1-3 yrs",
+      "skills": [
+        "Spark",
+        "SQL",
+        "ETL"
+      ],
+      "careersUrl": "https://careers.techmahindra.com"
+    }
+  ],
+  "mobile": [
+    {
+      "company": "PhonePe",
+      "title": "Android Engineer",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Kotlin",
+        "Android",
+        "MVVM"
+      ],
+      "careersUrl": "https://www.phonepe.com/careers/"
+    },
+    {
+      "company": "Swiggy",
+      "title": "SDE - Android / iOS",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Kotlin",
+        "Swift",
+        "REST APIs"
+      ],
+      "careersUrl": "https://careers.swiggy.com"
+    },
+    {
+      "company": "Zomato",
+      "title": "Android Developer",
+      "location": "Gurugram",
+      "experience": "1-3 yrs",
+      "skills": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Firebase"
+      ],
+      "careersUrl": "https://www.zomato.com/careers"
+    },
+    {
+      "company": "Paytm",
+      "title": "Mobile Developer (Flutter / React Native)",
+      "location": "Noida",
+      "experience": "1-3 yrs",
+      "skills": [
+        "Flutter",
+        "React Native",
+        "Dart"
+      ],
+      "careersUrl": "https://paytm.com/careers"
+    },
+    {
+      "company": "Amazon",
+      "title": "SDE - Mobile",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Android",
+        "iOS",
+        "System Design"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Infosys",
+      "title": "Mobile Application Developer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Android",
+        "Flutter",
+        "REST APIs"
+      ],
+      "careersUrl": "https://www.infosys.com/careers/"
+    }
+  ],
+  "qa": [
+    {
+      "company": "Accenture",
+      "title": "QA / Test Engineer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Selenium",
+        "Manual Testing",
+        "JIRA"
+      ],
+      "careersUrl": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Amazon",
+      "title": "QA Engineer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Test Automation",
+        "API Testing",
+        "Agile"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Test Analyst",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Manual Testing",
+        "SQL",
+        "Test Cases"
+      ],
+      "careersUrl": "https://careers.cognizant.com"
+    },
+    {
+      "company": "Wipro",
+      "title": "Software Test Engineer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Selenium",
+        "Java",
+        "TestNG"
+      ],
+      "careersUrl": "https://careers.wipro.com"
+    },
+    {
+      "company": "Freshworks",
+      "title": "SDET",
+      "location": "Chennai",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Automation",
+        "API Testing",
+        "CI/CD"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "Capgemini",
+      "title": "Automation Test Engineer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Selenium",
+        "Cucumber",
+        "Agile"
+      ],
+      "careersUrl": "https://www.capgemini.com/in-en/careers/"
+    }
+  ],
+  "uiux": [
+    {
+      "company": "Adobe",
+      "title": "UX Designer",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Figma",
+        "Prototyping",
+        "User Research"
+      ],
+      "careersUrl": "https://careers.adobe.com"
+    },
+    {
+      "company": "Swiggy",
+      "title": "Product Designer",
+      "location": "Bengaluru",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Figma",
+        "Design Systems",
+        "UX Flows"
+      ],
+      "careersUrl": "https://careers.swiggy.com"
+    },
+    {
+      "company": "Microsoft",
+      "title": "UX Designer",
+      "location": "Hyderabad",
+      "experience": "2-5 yrs",
+      "skills": [
+        "Wireframing",
+        "Usability Testing",
+        "Figma"
+      ],
+      "careersUrl": "https://careers.microsoft.com"
+    },
+    {
+      "company": "Freshworks",
+      "title": "UI / UX Designer",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Figma",
+        "Prototyping",
+        "UI"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "Zoho",
+      "title": "UI / UX Designer",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Wireframes",
+        "Visual Design",
+        "Photoshop"
+      ],
+      "careersUrl": "https://www.zoho.com/careers/"
+    },
+    {
+      "company": "Accenture",
+      "title": "Interaction / Visual Designer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Design Thinking"
+      ],
+      "careersUrl": "https://www.accenture.com/in-en/careers"
+    }
+  ],
+  "sales": [
+    {
+      "company": "Salesforce",
+      "title": "Sales Development Representative",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Lead Generation",
+        "CRM",
+        "Communication"
+      ],
+      "careersUrl": "https://careers.salesforce.com"
+    },
+    {
+      "company": "Zoho",
+      "title": "Inside Sales Executive",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "B2B Sales",
+        "Negotiation",
+        "CRM"
+      ],
+      "careersUrl": "https://www.zoho.com/careers/"
+    },
+    {
+      "company": "HubSpot",
+      "title": "Account Executive",
+      "location": "Remote / Hybrid",
+      "experience": "1-4 yrs",
+      "skills": [
+        "SaaS Sales",
+        "Pipeline",
+        "Demos"
+      ],
+      "careersUrl": "https://www.hubspot.com/careers"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Business Development Executive",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Prospecting",
+        "Cold Calling",
+        "CRM"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "HDFC Bank",
+      "title": "Relationship Manager",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Client Relationships",
+        "Targets",
+        "Cross-selling"
+      ],
+      "careersUrl": "https://www.hdfcbank.com/personal/about-us/careers"
+    },
+    {
+      "company": "Amazon",
+      "title": "Account Manager (Seller Services)",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Account Management",
+        "Negotiation",
+        "Excel"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    }
+  ],
+  "marketing": [
+    {
+      "company": "Zomato",
+      "title": "Performance Marketing Executive",
+      "location": "Gurugram",
+      "experience": "1-3 yrs",
+      "skills": [
+        "Google Ads",
+        "Meta Ads",
+        "Analytics"
+      ],
+      "careersUrl": "https://www.zomato.com/careers"
+    },
+    {
+      "company": "HubSpot",
+      "title": "Content Marketing Specialist",
+      "location": "Remote / Hybrid",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Content",
+        "SEO",
+        "Email"
+      ],
+      "careersUrl": "https://www.hubspot.com/careers"
+    },
+    {
+      "company": "Meesho",
+      "title": "Growth Marketing Associate",
+      "location": "Bengaluru",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Campaigns",
+        "Analytics",
+        "SEO"
+      ],
+      "careersUrl": "https://www.meesho.io/jobs"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Digital Marketing Executive",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "SEO",
+        "Social Media",
+        "Campaigns"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "Swiggy",
+      "title": "Social Media / Brand Executive",
+      "location": "Bengaluru",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Social Media",
+        "Copywriting",
+        "Branding"
+      ],
+      "careersUrl": "https://careers.swiggy.com"
+    },
+    {
+      "company": "Amazon",
+      "title": "Marketing Associate",
+      "location": "Hyderabad",
+      "experience": "1-3 yrs",
+      "skills": [
+        "Campaigns",
+        "Analytics",
+        "Excel"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    }
+  ],
+  "hr": [
+    {
+      "company": "Deloitte",
+      "title": "HR Executive / Talent Acquisition",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Recruitment",
+        "Onboarding",
+        "HRIS"
+      ],
+      "careersUrl": "https://www.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "Amazon",
+      "title": "Recruiter / Talent Acquisition Partner",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Sourcing",
+        "Interviewing",
+        "Stakeholders"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Accenture",
+      "title": "HR Operations Associate",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Onboarding",
+        "Payroll",
+        "HR Policies"
+      ],
+      "careersUrl": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Infosys",
+      "title": "Talent Acquisition Specialist",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Recruitment",
+        "Screening",
+        "ATS"
+      ],
+      "careersUrl": "https://www.infosys.com/careers/"
+    },
+    {
+      "company": "Capgemini",
+      "title": "HR Generalist",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Employee Engagement",
+        "Compliance",
+        "HRIS"
+      ],
+      "careersUrl": "https://www.capgemini.com/in-en/careers/"
+    },
+    {
+      "company": "EY",
+      "title": "HR Business Partner Associate",
+      "location": "Hyderabad",
+      "experience": "2-5 yrs",
+      "skills": [
+        "Performance Mgmt",
+        "Engagement",
+        "Excel"
+      ],
+      "careersUrl": "https://www.ey.com/en_in/careers"
+    }
+  ],
+  "finance": [
+    {
+      "company": "EY",
+      "title": "Audit / Assurance Associate",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Audit",
+        "Accounting",
+        "Excel"
+      ],
+      "careersUrl": "https://www.ey.com/en_in/careers"
+    },
+    {
+      "company": "KPMG",
+      "title": "Finance & Accounts Executive",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Financial Reporting",
+        "GST",
+        "Tally"
+      ],
+      "careersUrl": "https://kpmg.com/in/en/careers.html"
+    },
+    {
+      "company": "Deloitte",
+      "title": "Financial Analyst",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Financial Analysis",
+        "Excel",
+        "Reporting"
+      ],
+      "careersUrl": "https://www.deloitte.com/in/en/careers.html"
+    },
+    {
+      "company": "HDFC Bank",
+      "title": "Credit / Finance Officer",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "Accounting",
+        "Compliance",
+        "Excel"
+      ],
+      "careersUrl": "https://www.hdfcbank.com/personal/about-us/careers"
+    },
+    {
+      "company": "ICICI Bank",
+      "title": "Finance & Accounts Officer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Reconciliation",
+        "Reporting",
+        "Taxation"
+      ],
+      "careersUrl": "https://www.icicicareers.com"
+    },
+    {
+      "company": "Dr. Reddy's",
+      "title": "Accounts / Finance Executive",
+      "location": "Hyderabad",
+      "experience": "1-4 yrs",
+      "skills": [
+        "SAP",
+        "Accounting",
+        "GST"
+      ],
+      "careersUrl": "https://www.drreddys.com/careers/"
+    }
+  ],
+  "support": [
+    {
+      "company": "Amazon",
+      "title": "Customer Service Associate",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Communication",
+        "Ticketing",
+        "Problem Solving"
+      ],
+      "careersUrl": "https://www.amazon.jobs"
+    },
+    {
+      "company": "Freshworks",
+      "title": "Customer Support Engineer",
+      "location": "Chennai",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Troubleshooting",
+        "Ticketing",
+        "SLA"
+      ],
+      "careersUrl": "https://www.freshworks.com/company/careers/"
+    },
+    {
+      "company": "Accenture",
+      "title": "Customer Care Associate",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Call Handling",
+        "Complaints",
+        "CRM"
+      ],
+      "careersUrl": "https://www.accenture.com/in-en/careers"
+    },
+    {
+      "company": "Wipro",
+      "title": "Technical Support Engineer",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "Troubleshooting",
+        "Helpdesk",
+        "Escalation"
+      ],
+      "careersUrl": "https://careers.wipro.com"
+    },
+    {
+      "company": "Cognizant",
+      "title": "Process Associate - Customer Support",
+      "location": "Hyderabad",
+      "experience": "0-2 yrs",
+      "skills": [
+        "Communication",
+        "Chat Support",
+        "SLA"
+      ],
+      "careersUrl": "https://careers.cognizant.com"
+    },
+    {
+      "company": "HCLTech",
+      "title": "Service Desk Analyst",
+      "location": "Hyderabad",
+      "experience": "0-3 yrs",
+      "skills": [
+        "ServiceNow",
+        "Troubleshooting",
+        "ITIL"
+      ],
+      "careersUrl": "https://www.hcltech.com/careers"
+    }
+  ]
+}

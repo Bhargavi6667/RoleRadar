@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: careerlens-backend
+  profiles:
+    active: dev
+  servlet:
+    multipart:
+      max-file-size: 20MB
+      max-request-size: 25MB
+
+# AI Microservice integration endpoint
+ai:
+  service:
+    url: ${AI_SERVICE_URL:http://localhost:8000}

@@ -1,0 +1,40 @@
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Java & Spring Boot
+target/
+*.class
+.gradle/
+build/
+*.jar
+*.war
+
+# Python & AI Service
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Environment variables & secrets
+.env
+.env.production
+.env.local
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
